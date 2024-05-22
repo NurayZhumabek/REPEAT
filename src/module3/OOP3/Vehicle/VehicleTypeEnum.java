@@ -1,0 +1,6 @@
+package module3.OOP3.Vehicle;
+
+public enum VehicleTypeEnum {
+    TRUCK,CAR,PASSENGER,SEDAN,WAGON,PICKUP,BUS,PETROL,DIESEL,HYBRID,ELECTRIC
+
+}
